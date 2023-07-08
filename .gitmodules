@@ -1,3 +1,6 @@
 [submodule "ciphertrust.crypto"]
 	path = ciphertrust.crypto
 	url = https://github.com/anugram/ciphertrust.crypto
+[submodule "ciphertrust_pki_role"]
+	path = ciphertrust_pki_role
+	url = https://github.com/anugram/ciphertrust_pki_role
